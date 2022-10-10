@@ -1,0 +1,20 @@
+body { /* Стиль всей страницы, похож на тему oblivon редактора gedit 2019-04-28 */
+	background: linear-gradient( #34393a, transparent 1px), linear-gradient( 90deg, #34393a, transparent 1px);
+	background-size: 12px 12px; /* Размер ячейки */
+	background-position: center center;
+	/* Если наряду с фоновыми изображениями надо задать цвет фона элемента, он указывается в ПОСЛЕДНЮЮ очередь */
+	background-color: #2e3436; /* Фон страницы */
+	color: #c6cac3; /* Цвет текста */
+}
+p { /* Стиль обычного абзаца */ 
+	text-align: justify; width: 80%; /* Выравнивание текста по ширине и общая ширина текста */
+}
+H1 { /* Заголовок и отрицательный отступ до следующего текста */
+	margin-bottom: -15px; /* Отрицательный отступ между заголовком и следующим текстом */
+	font-size: 120%; /* Размер шрифта для этого стиля */
+	font-family: Verdana, Arial, Helvetica, sans-serif; /* Шрифт для этого стиля */
+}
+H2 { /* Подзаголовок (выделенный текст) */
+	font-size: 110%; /* Размер шрифта для этого стиля */
+	font-family: Verdana, Arial, Helvetica, sans-serif; /* Шрифт для этого стиля */
+}
