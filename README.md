@@ -1,3 +1,3 @@
 # dmplace.github.io
-Это просто тестирование GitHub Pages.  \\
+Это просто тестирование GitHub Pages.  //
 Новая версия.
